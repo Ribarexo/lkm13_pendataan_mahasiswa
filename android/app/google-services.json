@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179554591805",
+    "project_id": "lkm13-mahasiswa-baru",
+    "storage_bucket": "lkm13-mahasiswa-baru.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179554591805:android:017cee52ca4bcdac777654",
+        "android_client_info": {
+          "package_name": "com.example.lkm_pendataan_mahasiswa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8IxjhIIwNbfBggDdjCzVbLAQyd7AcH5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
